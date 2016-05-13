@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/manojlds/browser-farm/issues"
   },
-  "homepage": "https://github.com/manojlds/browser-farm#readme"
+  "homepage": "https://github.com/manojlds/browser-farm#readme",
+  "dependencies": {
+    "koa": "1.2.0"
+  }
 }
