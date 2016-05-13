@@ -1,0 +1,24 @@
+{
+  "name": "browser-farm",
+  "version": "0.1.0",
+  "description": "Browser Farm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manojlds/browser-farm.git"
+  },
+  "keywords": [
+    "browser",
+    "headless",
+    "farm"
+  ],
+  "author": "manojlds <manojlds@gmail.com> (https://stacktoheap.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manojlds/browser-farm/issues"
+  },
+  "homepage": "https://github.com/manojlds/browser-farm#readme"
+}
